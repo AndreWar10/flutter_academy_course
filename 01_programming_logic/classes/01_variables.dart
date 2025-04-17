@@ -1,7 +1,11 @@
 // ignore_for_file: unused_local_variable
 
 void main() {
-  
+  types();
+  assignments();
+}
+
+void types() {
   // Numéricos
   num genericValue = 10;
   int age  = 22;
@@ -29,10 +33,6 @@ void main() {
   // Symbols
 
   // Null
-}
-
-void types() {
-
 }
 
 void assignments() {
