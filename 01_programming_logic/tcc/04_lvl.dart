@@ -35,11 +35,11 @@ void runWelcomeMessageToClient() {
     
     switch (optionSelected) {
       case '1':
-      showDivider(mininum: true);
-      print('PRODUCT OFFERS:');
-      showDivider(mininum: true);
-      print('Royal Canin Indor 7.5kg food with a promotional price of R\$ 280,00');
-      showDivider(mininum: false);
+        showDivider(mininum: true);
+        print('PRODUCT OFFERS:');
+        showDivider(mininum: true);
+        print('Royal Canin Indor 7.5kg food with a promotional price of R\$ 280,00');
+        showDivider(mininum: false);
         break;
       case '2': 
         showDivider(mininum: true);
